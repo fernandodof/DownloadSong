@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DownloadSong</string>
+    <string name="hello_world">Music</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_player">Player</string>
+    <string name="player"></string>
+    <string name="downloading">Downloading.....</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+
+</resources>
